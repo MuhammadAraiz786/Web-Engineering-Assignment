@@ -2,7 +2,7 @@
 
 A sleek, responsive, multi-page web application showcasing various categories of premium timepieces, including smartwatches, luxury, vintage, and sports collections.
 
-## 📂 Project Structure
+## Project Structure
 
 This project is organized into dedicated HTML pages for a modular viewing experience:
 
@@ -17,13 +17,13 @@ This project is organized into dedicated HTML pages for a modular viewing experi
 * **contact.html** - Inquiry form and storefront location information.
 * **styles.css** - Universal styling and layout mechanics for the entire project.
 
-## 🚀 Features
+## Features
 
 * **Multi-Page Layout:** Smooth navigation mapping across 9 distinct pages.
 * **Curated Categorization:** Distinct structural views tailored to different target watch aesthetics.
 * **Centralized Design:** Consistent color themes, typography, and image treatments managed via a single cascading stylesheet (`styles.css`).
 
-## 🛠️ Built With
+## Built With
 
 * HTML5
 * CSS3
